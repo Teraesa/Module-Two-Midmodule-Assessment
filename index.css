@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+
+#dice-sum {
+  border: 2px solid black;
+  height: 200px;
+  width: 800px;
+  margin: 1px;
+}
+
+#history-sum {
+  border: 2px solid black;
+  height: 200px;
+  width: 800px;
+  margin: 1px;
+}
